@@ -20,4 +20,6 @@ body {
     gap: 40px;
 }
 
-.calendar .months-container .month-container {background: #fff;}
+.calendar .months-container .month-container {
+    background: #fff;
+}
