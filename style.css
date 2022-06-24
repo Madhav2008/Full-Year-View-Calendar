@@ -71,4 +71,4 @@ table.month td.day .day-content:hover {
     background: transparent;
 }
 
-.calendar .calendar-header .year-title {}
+.calendar .calendar-header .year-title {font-size: ;}
