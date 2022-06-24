@@ -11,5 +11,4 @@
 ![image](https://user-images.githubusercontent.com/72864817/175515028-784d075b-4d7e-41ba-8374-cff85c96467f.png)
 
 ![image](https://user-images.githubusercontent.com/72864817/175515223-9d30b9aa-82c4-4166-9ca5-198d73136893.png)
-
 ## Pixel 5
