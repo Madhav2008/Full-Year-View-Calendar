@@ -58,4 +58,4 @@ table.month thead tr:nth-child(2) th:last-child {
     color: #777;
 }
 
-table.month td.day .day-content:hover {}
+table.month td.day .day-content:hover {background: ;}
