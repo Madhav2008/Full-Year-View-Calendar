@@ -16,5 +16,6 @@ body {
 }
 
 .months-container {
-    justify-content: center;gap: 40px;
+    justify-content: center;
+    gap: 40px;
 }
