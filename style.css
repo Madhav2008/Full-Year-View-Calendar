@@ -63,4 +63,6 @@ table.month td.day .day-content:hover {
     color: #fff;
 }
 
-.calendar .calendar-header {border: none;}
+.calendar .calendar-header {
+    border: none;
+}
