@@ -38,6 +38,6 @@ body {
 table.month td:first-child,
 table.month td:last-child,
 table.month thead tr:first-child,
-table.month thead td:first-child {
+table.month thead tr:first-child {
     color: #f75c90;
 }
