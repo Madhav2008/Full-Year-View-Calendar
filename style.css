@@ -21,5 +21,6 @@ body {
 }
 
 .calendar .months-container .month-container {
-    background: #fff;padding: 20px;
+    background: #fff;
+    padding: 20px;
 }
