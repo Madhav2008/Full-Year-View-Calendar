@@ -59,5 +59,6 @@ table.month thead tr:nth-child(2) th:last-child {
 }
 
 table.month td.day .day-content:hover {
-    background: #f75c90;color: #fff;
+    background: #f75c90;
+    color: #fff;
 }
