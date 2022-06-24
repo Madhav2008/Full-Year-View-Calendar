@@ -15,4 +15,6 @@ body {
     padding: 20px 40px;
 }
 
-.months-container {justify-content: center;}
+.months-container {
+    justify-content: center;
+}
