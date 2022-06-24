@@ -42,4 +42,4 @@ table.month thead tr:nth-child(2) th:last-child {
     color: #f75c90;
 }
 
-.calendar table.month td
+.calendar table.month td.day
