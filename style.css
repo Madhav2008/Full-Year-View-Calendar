@@ -37,7 +37,7 @@ body {
 
 table.month td:first-child,
 table.month td:last-child,
-table.month thead trth:first-child,
+table.month thead tr th:first-child,
 table.month thead th:last-child {
     color: #f75c90;
 }
