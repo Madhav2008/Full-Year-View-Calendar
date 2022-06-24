@@ -47,5 +47,5 @@ table.month thead tr:nth-child(2) th:last-child {
 }
 
 .calendar table.month th.day-header {
-    color: #f00;
+    color: #777;
 }
