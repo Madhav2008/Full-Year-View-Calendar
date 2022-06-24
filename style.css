@@ -43,5 +43,5 @@ table.month thead tr:nth-child(2) th:last-child {
 }
 
 .calendar table.month td.day .day-content {
-    padding: ;
+    padding: 6px;
 }
