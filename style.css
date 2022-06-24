@@ -36,6 +36,7 @@ body {
 }
 
 table.month td:first-child,
-table.month td:last-child, {
-    color: #f75c90;
+table.month td:last-child,
+{
+color: #f75c90;
 }
