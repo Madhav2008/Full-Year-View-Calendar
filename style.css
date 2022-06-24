@@ -35,4 +35,4 @@ body {
     font-family: 'Dancing Script', cursive;
 }
 
-table.month
+table.month td:first-child
