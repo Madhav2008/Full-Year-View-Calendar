@@ -28,4 +28,4 @@ body {
     box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
 }
 
-.calendar table.month th
+.calendar table.month th.month-title
